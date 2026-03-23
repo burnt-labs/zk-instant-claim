@@ -1,0 +1,10 @@
+packages:
+  - 'packages/*'
+  - 'backend'
+  - 'frontend'
+
+onlyBuiltDependencies:
+  - "@reclaimprotocol/tls"
+  - "@swc/core"
+  - "@next/swc-darwin-arm64"
+  - "@next/swc-darwin-x64"

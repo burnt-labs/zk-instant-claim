@@ -1,0 +1,7 @@
+[package]
+name = "income_verifier"
+type = "bin"
+authors = ["Burnt Labs"]
+compiler_version = ">=0.38.0"
+
+[dependencies]
