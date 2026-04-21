@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "contracts",
+    "zkpay-handler",
+]
+resolver = "2"
